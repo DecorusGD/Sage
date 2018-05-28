@@ -1,0 +1,53 @@
+{
+  "wallpapers": [
+    {
+      		"name": "Wallpaper 1",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/mountains.png"
+        },
+        {
+            "name": "Wallpaper 2",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        },
+        {
+            "name": "Wallpaper 3",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/stairs.jpg"
+        },
+        {
+            "name": "Wallpaper 4",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        },
+        {
+            "name": "Wallpaper 5",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        },
+      		"name": "Wallpaper 6",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/mountains.png"
+        },
+        {
+            "name": "Wallpaper 7",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        },
+        {
+            "name": "Wallpaper 8",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/stairs.jpg"
+        },
+        {
+            "name": "Wallpaper 9",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        },
+        {
+            "name": "Wallpaper 10",
+            "author": "Decorus Graphical Design",
+            "url": "https://raw.githubusercontent.com/chitonactis/circa/master/lake.jpg"
+        }
+  ]
+}
